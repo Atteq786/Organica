@@ -16,19 +16,13 @@
 
 <br />
 
-### Demo Screeshots
+### Demo Screenshots
 
 ![Organica Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact me you can reach me at mailto.atteq7866@gmail.com.
 
 ### License
 
